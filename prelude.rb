@@ -1,8 +1,8 @@
 class Prelude < Formula
   desc "A tool to generate prompts containing file tree and concatenated file contents"
   homepage "https://github.com/aerugo/prelude"
-  url "https://github.com/aerugo/prelude/archive/tags/v0.21.tar.gz"
-  sha256 "83e1702506badf30b5ab1eedf740ef374ad235e41ec575ba4d97de797954bb1a"
+  url "https://github.com/aerugo/prelude/archive/tags/v0.3.tar.gz"
+  sha256 "ba1cc4ec19375707603da30ce5dec516e6171593f649b7d26fe327cb608c0f20"
   license "MIT"
 
   depends_on "tree"
